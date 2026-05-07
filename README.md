@@ -1,0 +1,25 @@
+# Youth Labour Market Analysis in India (1991–2025)
+
+## Overview
+A data-driven study analyzing educated unemployment and 
+skill mismatch in India's youth labour market using 
+Excel and Power BI.
+
+## Key Findings
+- Skill Mismatch Index rose from 2.64 (1991) to 3.80 (2025)
+- Youth unemployment 3.80x higher than adult unemployment
+- Gender gap of 45.19 points persists in LFPR
+- Agriculture employment declined from 63% to 41%
+
+## Tools Used
+- Microsoft Excel (Data cleaning, custom metrics)
+- Power BI (Dashboard and visualization)
+
+## Data Sources
+- ILO (ILOSTAT)
+- World Bank WDI
+- PLFS, MOSPI, Government of India
+
+## Author
+Biswa Lakshmi Rajkumari
+Economics Graduate | Aspiring Data Analyst
