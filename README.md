@@ -19,7 +19,3 @@ Excel and Power BI.
 - ILO (ILOSTAT)
 - World Bank WDI
 - PLFS, MOSPI, Government of India
-
-## Author
-Biswa Lakshmi Rajkumari
-Economics Graduate | Aspiring Data Analyst
